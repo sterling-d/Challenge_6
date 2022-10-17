@@ -32,8 +32,6 @@ To use the data visualization application, simply clone the repository and creat
    jupyter lab 
 ```
 
----
-
 Upon launching the data visualization application, you will be able to view an interactive line + GeoViews plot, which allows users to visualize the gross rent of each neighborhood. 
 
 <img width="1440" alt="Screen Shot 2022-10-16 at 11 35 02 AM" src="https://user-images.githubusercontent.com/105071493/196052129-0deeb2b3-eafe-4d5e-82fd-7ad1eeee16ad.png">
